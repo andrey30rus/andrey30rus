@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## 📫 Связаться со мной:
 
-- Telegram: [@johndoe](https://t.me/andrey_30rus)
+- Telegram: [@andrey](https://t.me/andrey_30rus)
 - Email: [example@mail.com](mailto:30rus.andrey@gmail.com)
 
 [//]: # (- LinkedIn: [Ваш профиль]&#40;https://www.linkedin.com/in/ваше_имя&#41;)
