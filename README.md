@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 -->
 
 ## 📊 GitHub Статистика
-![Моя GitHub статистика](https://github-readme-stats.vercel.app/api?username=myusername&show_icons=true&theme=radical)
+![Моя GitHub статистика](https://github-readme-stats.vercel.app/api?username=andrey30rus&show_icons=true&theme=radical)
 
-![Самые используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&layout=compact&theme=radical)
+![Самые используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=andrey30rus&layout=compact&theme=radical)
 
 
 [//]: # (## 📫 Связаться со мной:)
