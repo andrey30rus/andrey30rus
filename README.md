@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📫 Связаться со мной:
+- [LinkedIn](ссылка)
+- [Email](mailto:30rus.andrey@gmail.com)
